@@ -1,6 +1,5 @@
 ### Hi, I am Carlos Marin 👋
 
-🔭 I’m currently working on SkydropX
 🌱 I’m currently learning hexagonal architecture
 💬 Ask me about https://twitter.com/Mariinn_19
 
